@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on backend python projects
 - 📫 How to reach me:
  discord: NasciNSC#8148,
- telegram: vainikkaxd 
+ telegram: vainikkaxd,
+ instagram: maxim_vainikka
 
 <!---
 Tsuffu/Tsuffu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning for backend development with a bit of DS
 - 💞️ I’m looking to collaborate on backend python projects
 - 📫 How to reach me:
- discord: NasciNSC#8148,
- telegram: vainikkaxd,
+ discord: NasciNSC#8148,  
+ telegram: vainikkaxd,  
  instagram: maxim_vainikka
 
 <!---

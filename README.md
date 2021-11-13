@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @NasciNSC
+- 👋 Hi, I’m @Nozart
 - 👀 I’m interested in Backend / Mobile / Analyse and Genshin Impact
 - 🌱 I’m currently learning for backend development with a bit of DS
 - 💞️ I’m looking to collaborate on backend python projects
 - 📫 How to reach me:  
- discord: NasciNSC#8148,  
+ discord: Nozart 诺扎特#8148,  
  telegram: vainikkaxd,  
  instagram: maxim_vainikka
 

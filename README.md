@@ -4,7 +4,8 @@
 - 💞️ I’m looking for a job as iOS app dev
 - 📫 How to reach me:  
  discord: FuxesTortelin#3510,  
- telegram: vainikkaxd
+ telegram: vainikkaxd,
+ email: maxim.vainikka@yandex.ru
 
 <!---
 Vainikkaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

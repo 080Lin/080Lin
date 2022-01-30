@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @vainikkaxd
-- 👀 I’m interested in Backend / Mobile / Analyse and Genshin Impact
-- 🌱 I’m currently learning for backend development with a bit of DS
-- 💞️ I’m looking to collaborate on backend python projects
+- 👀 I’m interested in iOS Development and Genshin Impact
+- 🌱 I’m currently mastering my skills with swift & SwiftUI
+- 💞️ I’m looking for a job as iOS app dev
 - 📫 How to reach me:  
- discord: soumezuu#8148,  
- telegram: vainikkaxd,  
- instagram: maxim_vainikka
+ discord: FuxesTortelin#3510,  
+ telegram: vainikkaxd
 
 <!---
-Soumetsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vainikkaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

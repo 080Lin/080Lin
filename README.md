@@ -3,7 +3,7 @@
 - 🌱 I’m currently mastering my skills with swift & SwiftUI
 - 💞️ I’m looking for a job as iOS app dev
 - 📫 How to reach me:  
- discord: FuxesTortelin#3510,  
+ discord: RithMique#8888,  
  telegram: vainikkaxd,    
  email: maxim.vainikka@yandex.ru
 

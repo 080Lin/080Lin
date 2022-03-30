@@ -1,4 +1,4 @@
-- 👀 I’m interested in iOS Development and Genshin Impact
+- 👀 I’m interested in iOS Development
 - 🌱 I’m currently studying for concurrency and architecture
 - 💞️ I’m looking for a job as iOS app dev
 - 📫 How to reach me:  

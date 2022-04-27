@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!---<div id="header" align="center">
   <img src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611276ff9e1253f6ea35ca72b215ff702c3d1c3d4f1&rid=giphy.gif&ct=g" width="335"/>
-</div>
+</div>--->
 
 <div id="badges" align="center">
  <a href="t.me/ASDMart">
@@ -73,6 +73,7 @@ Tools:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height=40>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width=40 height=40>
  </div>
  
  <h3 align="left">

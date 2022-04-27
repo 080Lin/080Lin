@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/badge/ASDMart-blue?logo=telegram&logoColor=white&style=for-the-badge">
  </a>
  <a href="https://www.linkedin.com/in/maxim-nuzhdin-36aa9621a/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
  <a href="discordapp.com/users/954073650477297756">
  <img src="https://img.shields.io/badge/ASDMart-blue?logo=discord&logoColor=white&style=for-the-badge">

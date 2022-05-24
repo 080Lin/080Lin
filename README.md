@@ -9,7 +9,7 @@
  <a href="https://www.linkedin.com/in/maxim-nuzhdin-36aa9621a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
- <a href="https://www.discordapp.com/users/954073650477297756">
+ <a href="https://www.discordapp.com/users/926646265327026176">
  <img src="https://img.shields.io/badge/~080-blue?logo=discord&logoColor=white&style=for-the-badge">
  </a>
 </div>

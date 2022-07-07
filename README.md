@@ -39,7 +39,7 @@ Searching for ways to improve myself while no procrastination
 💻 Experience:
 </h2>
 
-- <b>Raiffaisen bank</b> | 2019-2020<br>
+- <b>Raiffaisen bank</b> | 2019<br>
 position: trainee backend developer
 - <b>Health issues</b> | 2020-2022
 - <b>AIARA corp</b> | march 2022<br>
@@ -73,7 +73,6 @@ Tools:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height=40>
- <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width=40 height=40>
  </div>
  
  <h3 align="left">
@@ -82,7 +81,6 @@ Tools:
  
  <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width=40 height=40>
- <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40 height=40>
  </div>
  
@@ -94,16 +92,7 @@ Tools:
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width=40 height=40>
  </div>
- 
- <h3 align="left">
- Studying due to unexpected interest::
- </h3>
- 
- <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=40 height=40>
- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width=40 height=40>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=40 height=40>
- </div>
+
 <!---
 Vainikkaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -39,8 +39,6 @@ Searching for ways to improve myself while no procrastination
 💻 Experience:
 </h2>
 
-- <b>Raiffaisen bank</b> | 2019<br>
-position: trainee backend developer
 - <b>Health issues</b> | 2020-2022
 - <b>AIARA corp</b> | march 2022<br>
 position: junior iOS developer (UIKit stack)

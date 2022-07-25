@@ -40,7 +40,7 @@ Searching for ways to improve myself while no procrastination
 </h2>
 
 - <b>Health issues</b> | 2020-2022
-- <b>AIARA corp</b> | march 2022<br>
+- <b>AIARA corp</b> | february - march 2022<br>
 position: junior iOS developer (UIKit stack)
 
 <!---[

@@ -3,7 +3,7 @@
 </div>--->
 
 <div id="badges" align="center">
- <a href="https://www.t.me/vnkmxm">
+ <a href="https://www.t.me/nzdYmxm">
  <img src="https://img.shields.io/badge/vnkmxm-blue?logo=telegram&logoColor=white&style=for-the-badge">
  </a>
  <a href="https://www.linkedin.com/in/maxim-nuzhdin-36aa9621a/">

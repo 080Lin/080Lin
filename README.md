@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=asdmart&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nzdymxm&style=flat-square&color=blue" alt=""/>
  </div>
  
  <h1 align="center">
@@ -45,9 +45,9 @@ position: junior iOS developer (UIKit stack)
 
 <!---[
 use later if it will be a massive streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vnkmxm&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
-![github stats](https://github-readme-stats.vercel.app/api?username=vnkmxm&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnkmxm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nzdymxm&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
+![github stats](https://github-readme-stats.vercel.app/api?username=nzdymxm&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzdymxm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&)
 
  <h3 align="left">
  Languages:

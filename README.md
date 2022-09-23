@@ -22,10 +22,6 @@
 Searching for ways to improve myself while no procrastination
 </h1>
  
- <div align="center">
- <img src="https://media2.giphy.com/media/VE4InmieSgVqM/giphy.gif?cid=790b761192bee0ccc314768118a055651a21a7b53d2a3356&rid=giphy.gif&ct=g">
- </div>
- 
  <h2 align="left">
   :man_technologist: About me:
  </h2>

@@ -29,7 +29,6 @@ Searching for ways to improve myself while no procrastination
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently studying for concurrency and architecture
 - 💞️ I’m looking for a job as iOS app dev
-- ❄️ cryo vision owner
 
 <h2 align="left">
 💻 Experience:

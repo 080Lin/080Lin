@@ -35,6 +35,7 @@ Searching for ways to improve myself while no procrastination
 <h2 align="left">
 💻 Experience:
 </h2>
+
 <table>
   <thead>
     <tr>
@@ -66,12 +67,13 @@ Searching for ways to improve myself while no procrastination
     </tr>   
   </tbody>
   </table>
+
 <!---[
 use later if it will be a massive streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nzdymxm&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
 ![github stats](https://github-readme-stats.vercel.app/api?username=080Lin&show_icons=true&theme=radical)
-  <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=080Lin&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats&)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=080Lin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&)
 
  <h3 align="left">
  Languages:

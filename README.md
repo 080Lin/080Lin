@@ -35,18 +35,43 @@ Searching for ways to improve myself while no procrastination
 <h2 align="left">
 💻 Experience:
 </h2>
-
-- <b>Health issues</b> | 2020-2022
-- <b>AIARA corp</b> | february - march 2022<br>
-position: junior iOS developer (UIKit stack)
-- <b>Sber</b> | december 2022 - nowadays<br>
-
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Activity</th>
+      <th colspan="3">Period</th>
+      <th colspan="3">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td colspan="3">Health issues</td>
+      <td colspan="3">2022-2022</td>
+      <td colspan="3">-</td>
+    </tr>
+    <tr>
+      <td colspan="3">AIARA corp</td>
+      <td colspan="3">feb-mar 2022</td>
+      <td colspan="3">junior iOS deceloper(UIKit stack)</td>
+    </tr>
+       <tr>
+      <td colspan="3">Health issues</td>
+      <td colspan="3">sep-dec 2022</td>
+      <td colspan="3">-</td>
+    </tr>
+       <tr>
+      <td colspan="3">Sber</td>
+      <td colspan="3">dec 2022 - nowadays</td>
+      <td colspan="3">C enjoyer</td>
+    </tr>   
+  </tbody>
+  </table>
 <!---[
 use later if it will be a massive streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nzdymxm&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)--->
 ![github stats](https://github-readme-stats.vercel.app/api?username=080Lin&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=080Lin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&)
+  <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=080Lin&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats&)
 
  <h3 align="left">
  Languages:

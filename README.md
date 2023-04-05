@@ -62,7 +62,7 @@ Searching for ways to improve myself while no procrastination
     </tr>
        <tr>
       <td colspan="3">Sber</td>
-      <td colspan="3">dec 2022 - nowadays</td>
+      <td colspan="3">dec 2022 - mar 2023</td>
       <td colspan="3">C enjoyer</td>
     </tr>   
   </tbody>

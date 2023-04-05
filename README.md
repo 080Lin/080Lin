@@ -47,7 +47,7 @@ Searching for ways to improve myself while no procrastination
   <tbody>
        <tr>
       <td colspan="3">Health issues</td>
-      <td colspan="3">2022-2022</td>
+      <td colspan="3">2020-2022</td>
       <td colspan="3">-</td>
     </tr>
     <tr>

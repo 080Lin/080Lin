@@ -63,8 +63,19 @@ Searching for ways to improve myself while no procrastination
        <tr>
       <td colspan="3">Sber</td>
       <td colspan="3">dec 2022 - mar 2023</td>
-      <td colspan="3">C enjoyer</td>
+      <td colspan="3">CS enjoyer</td>
     </tr>   
+    <tr>
+      <td colspan="3">Health issues</td>
+      <td colspan="3">mar 2023- may 2023</td>
+      <td colspan="3">-</td>
+    </tr>
+    </tr>
+       <tr>
+      <td colspan="3">Sber</td>
+      <td colspan="3">jun 2023 - ...</td>
+      <td colspan="3">CS enjoyer</td>
+    </tr>  
   </tbody>
   </table>
 
@@ -82,6 +93,7 @@ use later if it will be a massive streak
  <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width=40 height=40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title=python alt=python width=40 height=40>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title=python alt=python width=40 height=40>
  </div>
  
  <h3 align="left">
